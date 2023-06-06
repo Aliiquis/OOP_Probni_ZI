@@ -1,1 +1,1 @@
-# OOP_Probni_ZI
+# OOP Probni završni ispiti
